@@ -1,0 +1,236 @@
+[
+  {
+    "animal": "Peregrine falcon",
+    "speed": 200,
+    "adv": "hyper fast",
+    "speedlevel": 6
+  },
+  {
+    "animal": "Cheetah",
+    "speed": 70,
+    "adv": "super fast",
+    "speedlevel": 5
+  },
+  {
+    "animal": "Pronghorn antelope",
+    "speed": 61,
+    "adv": "super fast",
+    "speedlevel": 5
+  },
+  {
+    "animal": "Lion",
+    "speed": 50,
+    "adv": "super fast",
+    "speedlevel": 5
+  },
+  {
+    "animal": "Thomson's gazelle",
+    "speed": 50,
+    "adv": "super fast",
+    "speedlevel": 5
+  },
+  {
+    "animal": "Wildebeest",
+    "speed": 50,
+    "adv": "super fast",
+    "speedlevel": 5
+  },
+  {
+    "animal": "Quarter horse",
+    "speed": 47.5,
+    "adv": "very fast",
+    "speedlevel": 4
+  },
+  {
+    "animal": "Cape hunting dog",
+    "speed": 45,
+    "adv": "very fast",
+    "speedlevel": 4
+  },
+  {
+    "animal": "Elk",
+    "speed": 45,
+    "adv": "very fast",
+    "speedlevel": 4
+  },
+  {
+    "animal": "Coyote",
+    "speed": 43,
+    "adv": "very fast",
+    "speedlevel": 4
+  },
+  {
+    "animal": "Gray fox",
+    "speed": 42,
+    "adv": "very fast",
+    "speedlevel": 4
+  },
+  {
+    "animal": "Hyena",
+    "speed": 40,
+    "adv": "very fast",
+    "speedlevel": 4
+  },
+  {
+    "animal": "Ostrich",
+    "speed": 40,
+    "adv": "fast enough",
+    "speedlevel": 3
+  },
+  {
+    "animal": "Zebra",
+    "speed": 40,
+    "adv": "fast enough",
+    "speedlevel": 3
+  },
+  {
+    "animal": "Mongolian wild ass",
+    "speed": 40,
+    "adv": "fast enough",
+    "speedlevel": 3
+  },
+  {
+    "animal": "Greyhound",
+    "speed": 39.35,
+    "adv": "fast enough",
+    "speedlevel": 3
+  },
+  {
+    "animal": "Whippet",
+    "speed": 35.5,
+    "adv": "fast enough",
+    "speedlevel": 3
+  },
+  {
+    "animal": "Jackal",
+    "speed": 35,
+    "adv": "fast enough",
+    "speedlevel": 3
+  },
+  {
+    "animal": "Mule deer",
+    "speed": 35,
+    "adv": "normal",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Rabbit (domestic)",
+    "speed": 35,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Giraffe",
+    "speed": 32,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Reindeer",
+    "speed": 32,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Cat (domestic)",
+    "speed": 30,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Kangaroo",
+    "speed": 30,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Grizzly bear",
+    "speed": 30,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Wart hog",
+    "speed": 30,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "White-tailed deer",
+    "speed": 30,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Human",
+    "speed": 27.89,
+    "adv": "normally",
+    "speedlevel": 2
+  },
+  {
+    "animal": "Elephant",
+    "speed": 25,
+    "adv": "slow",
+    "speedlevel": 1
+  },
+  {
+    "animal": "Black mamba snake",
+    "speed": 20,
+    "adv": "slow",
+    "speedlevel": 1
+  },
+  {
+    "animal": "Six-lined race runner",
+    "speed": 18,
+    "adv": "slow",
+    "speedlevel": 1
+  },
+  {
+    "animal": "Squirrel",
+    "speed": 12,
+    "adv": "slow",
+    "speedlevel": 1
+  },
+  {
+    "animal": "Pig (domestic)",
+    "speed": 11,
+    "adv": "slow",
+    "speedlevel": 1
+  },
+  {
+    "animal": "Chicken",
+    "speed": 9,
+    "adv": "lazily",
+    "speedlevel": 1
+  },
+  {
+    "animal": "House mouse",
+    "speed": 8,
+    "adv": "lazily",
+    "speedlevel": 1
+  },
+  {
+    "animal": "Spider (Tegenearia atrica)",
+    "speed": 1.17,
+    "adv": "tardily",
+    "speedlevel": 0
+  },
+  {
+    "animal": "Giant tortoise",
+    "speed": 0.17,
+    "adv": "tardily",
+    "speedlevel": 0
+  },
+  {
+    "animal": "Three-toed sloth",
+    "speed": 0.15,
+    "adv": "tardily",
+    "speedlevel": 0
+  },
+  {
+    "animal": "Garden snail",
+    "speed": 0.03,
+    "adv": "tardily",
+    "speedlevel": 0
+  }
+]

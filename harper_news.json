@@ -1,0 +1,682 @@
+{
+"response": {
+"meta": {
+"hits": 1042,
+"time": 91,
+"offset": 0
+},
+"docs": [
+{
+"web_url": "http://bats.blogs.nytimes.com/2011/04/20/on-road-to-majors-hagerstown-is-harpers-latest-stop/",
+"snippet": "Bryce Harper brought out the spectacle seekers to Municipal Stadium Sunday to see Harper and the Hagerstown Suns play a double header against the Lakewood BlueClaws.",
+"lead_paragraph": "HAGERSTOWN, Md.— Bryce Harper has been called “baseball’s LeBron,” trains with a 36-inch, 47-ounce bat, and hit the longest home run in the history of Tropicana Field — when he was 16.",
+"abstract": "Bryce Harper brought out the spectacle seekers to Municipal Stadium Sunday to see Harper and the Hagerstown Suns play a double header against the Lakewood BlueClaws.",
+"print_page": null,
+"blog": [],
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "On Road to Majors, Hagerstown is Harper’s Latest Stop",
+"kicker": "Bats"
+},
+"keywords": [
+{
+"rank": "1",
+"name": "type_of_material",
+"value": "News"
+},
+{
+"rank": "2",
+"name": "persons",
+"value": "Harper, Bryce"
+},
+{
+"rank": "3",
+"name": "subject",
+"value": "Baseball"
+},
+{
+"rank": "4",
+"name": "organizations",
+"value": "Washington Nationals"
+}
+],
+"pub_date": "2011-04-20T07:30:01Z",
+"document_type": "blogpost",
+"news_desk": null,
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"person": [
+{
+"organization": "",
+"role": "reported",
+"firstname": "Ben",
+"rank": 1,
+"lastname": "STRAUSS"
+}
+],
+"original": "By BEN STRAUSS"
+},
+"type_of_material": "Blog",
+"_id": "4fd39f468eb7c8105d8e31c3",
+"word_count": "623",
+"slideshow_credits": null
+},
+{
+"web_url": "http://query.nytimes.com/gst/abstract.html?res=9500E1DE163CE733A25757C2A9629C946695D6CF",
+"snippet": "LONDON. BY general consent Bryce's biographer has performed his London task admirably. Mr. Fisher's own combination of wide historical knowledge with actual experience of public life made him an ideal choice. Several reviews of his book (reviewed in...",
+"lead_paragraph": "LONDON. BY general consent Bryce's biographer has performed his London task admirably. Mr. Fisher's own combination of wide historical knowledge with actual experience of public life made him an ideal choice. Several reviews of his book (reviewed in these columns on March 27) are written by personal friends of Bryce who are able to supplement its material by appreciations and reminiscences of their own.",
+"abstract": "Fisher's Life of Bryce",
+"print_page": "BR7",
+"blog": [],
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "British Opinion and Viscount Bryce"
+},
+"keywords": [
+{
+"name": "creative_works",
+"value": "LIFE OF BRYCE"
+},
+{
+"name": "persons",
+"value": "FISHER, H A L"
+},
+{
+"name": "persons",
+"value": "HORWILL, HERBERT W"
+},
+{
+"name": "glocations",
+"value": "U S"
+},
+{
+"name": "subject",
+"value": "BOOKS AND LITERATURE"
+},
+{
+"name": "subject",
+"value": "REVIEWS"
+},
+{
+"name": "subject",
+"value": "BOOKS AND LITERATURE"
+},
+{
+"name": "subject",
+"value": "REVIEWS"
+},
+{
+"name": "subject",
+"value": "LIBRARIES"
+}
+],
+"pub_date": "1927-04-24T00:00:00Z",
+"document_type": "article",
+"news_desk": null,
+"section_name": null,
+"subsection_name": null,
+"byline": {
+"person": [
+{
+"firstname": "Herbkat",
+"middlename": "W.",
+"lastname": "HORWILI",
+"rank": 1,
+"role": "reported",
+"organization": ""
+}
+],
+"original": "HERBKAT W. HORWILI"
+},
+"type_of_material": "Review",
+"_id": "4fc0a8d145c1498b0d3e1829",
+"word_count": 1053,
+"slideshow_credits": null
+},
+{
+"web_url": "http://www.nytimes.com/aponline/2016/02/19/sports/baseball/ap-bbn-nationals-papelbon.html",
+"snippet": "After walking into the clubhouse for the first time at spring training, Jonathan Papelbon smiled and laughed as he embraced former Boston Red Sox teammate Bronson Arroyo and joked Gio Gonzalez about his haircut.",
+"lead_paragraph": "After walking into the clubhouse for the first time at spring training, Jonathan Papelbon smiled and laughed as he embraced former Boston Red Sox teammate Bronson Arroyo and joked Gio Gonzalez about his haircut.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "AP",
+"multimedia": [],
+"headline": {
+"main": "Nationals' Papelbon Apologizes for Altercation With Harper",
+"print_headline": "Nationals' Papelbon Apologizes for Altercation With Harper"
+},
+"keywords": [],
+"pub_date": "2016-02-19T18:49:03Z",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "56c7aedc7988102da236f981",
+"word_count": "805",
+"slideshow_credits": null
+},
+{
+"web_url": "http://www.nytimes.com/2014/04/03/sports/baseball/passing-concussion-tests-bryce-harper-returns-to-lineup.html",
+"snippet": "After the Nationals ensured that he was not experiencing concussion-like symptoms from being kneed in the head in the opener, Bryce Harper played and went 0 for 4.",
+"lead_paragraph": "After the Nationals ensured that he was not experiencing concussion-like symptoms from being kneed in the head in the opener, Bryce Harper played and went 0 for 4.",
+"abstract": "Washington Nationals outfielder Bryce Harper, who was kneed in the head in the season opener, looks impressive in the field during 5-1 victory over New York Mets.",
+"print_page": "17",
+"blog": [],
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Passing Concussion Tests, Harper Returns to Lineup",
+"print_headline": "Passing Concussion Tests, Harper Returns to Lineup"
+},
+"keywords": [
+{
+"rank": "1",
+"is_major": "Y",
+"name": "subject",
+"value": "Baseball"
+},
+{
+"rank": "2",
+"is_major": "N",
+"name": "subject",
+"value": "Concussions"
+},
+{
+"rank": "3",
+"is_major": "N",
+"name": "organizations",
+"value": "Major League Baseball"
+},
+{
+"rank": "4",
+"is_major": "N",
+"name": "persons",
+"value": "Harper, Bryce (1992- )"
+},
+{
+"rank": "5",
+"is_major": "Y",
+"name": "organizations",
+"value": "Washington Nationals"
+}
+],
+"pub_date": "2014-04-03T00:00:00Z",
+"document_type": "article",
+"news_desk": "Sports",
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"contributor": "",
+"person": [
+{
+"qualifier": "Jr",
+"firstname": "Jorge",
+"lastname": "ARANGURE",
+"rank": 1,
+"role": "reported",
+"organization": ""
+}
+],
+"original": "By JORGE ARANGURE Jr"
+},
+"type_of_material": "News",
+"_id": "533cd0aa79881065b295595b",
+"word_count": "652",
+"slideshow_credits": null
+},
+{
+"web_url": "http://www.nytimes.com/2012/03/04/sports/baseball/bryce-harper-deals-with-high-expectations.html",
+"snippet": "As baseball’s top prospect, Bryce Harper’s fame outstrips that of most veterans and he has a chance to break camp as the starting right fielder for the Washington Nationals.",
+"lead_paragraph": "As baseball’s top prospect, Bryce Harper’s fame outstrips that of most veterans and he has a chance to break camp as the starting right fielder for the Washington Nationals.",
+"abstract": "Fame of Washington Nationals outfielder Bryce Harper, as baseball’s top prospect, outstrips that of most veterans; Harper has a chance to break camp as the starting right fielder for the Nationals.",
+"print_page": "9",
+"blog": [],
+"source": "The New York Times",
+"multimedia": [
+{
+"width": 600,
+"url": "images/2012/03/04/sports/YHARPER/YHARPER-articleLarge.jpg",
+"height": 330,
+"subtype": "xlarge",
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2012/03/04/sports/YHARPER/YHARPER-articleLarge.jpg",
+"xlargeheight": "330"
+},
+"type": "image"
+},
+{
+"width": 75,
+"url": "images/2012/03/04/sports/YHARPER/YHARPER-thumbStandard-v2.jpg",
+"height": 75,
+"subtype": "thumbnail",
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/03/04/sports/YHARPER/YHARPER-thumbStandard-v2.jpg",
+"thumbnailwidth": "75"
+},
+"type": "image"
+}
+],
+"headline": {
+"seo": "Bryce Harper Deals With High Expectations",
+"main": "Only 19, Harper Is Dealing With Expectations as the Next Big Thing",
+"print_headline": "Only 19, Harper Is Dealing With Expectations as the Next Big Thing"
+},
+"keywords": [
+{
+"rank": "1",
+"is_major": "Y",
+"name": "organizations",
+"value": "Washington Nationals"
+},
+{
+"rank": "2",
+"is_major": "Y",
+"name": "subject",
+"value": "Baseball"
+},
+{
+"rank": "3",
+"is_major": "N",
+"name": "persons",
+"value": "Harper, Bryce (1992- )"
+}
+],
+"pub_date": "2012-03-04T00:00:00Z",
+"document_type": "article",
+"news_desk": "Sports",
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"contributor": "",
+"person": [
+{
+"organization": "",
+"role": "reported",
+"firstname": "Tyler",
+"rank": 1,
+"lastname": "KEPNER"
+}
+],
+"original": "By TYLER KEPNER"
+},
+"type_of_material": "News",
+"_id": "515a5fcdfdc59278db003af9",
+"word_count": "1340",
+"slideshow_credits": null
+},
+{
+"web_url": "http://www.nytimes.com/aponline/2016/03/20/sports/baseball/ap-bbo-nationals-tigers.html",
+"snippet": "Bryce Harper hit his first two home runs this spring, connecting both times off Justin Verlander in the Washington Nationals' 7-6 loss Sunday to a split squad of Detroit Tigers.",
+"lead_paragraph": "Bryce Harper hit his first two home runs this spring, connecting both times off Justin Verlander in the Washington Nationals' 7-6 loss Sunday to a split squad of Detroit Tigers.",
+"abstract": null,
+"print_page": null,
+"blog": [],
+"source": "AP",
+"multimedia": [],
+"headline": {
+"main": "Harper Hits 2 Homers Off Verlander in Nats' Loss to Tigers",
+"print_headline": "Harper Hits 2 Homers Off Verlander in Nats' Loss to Tigers"
+},
+"keywords": [],
+"pub_date": "2016-03-20T18:38:38Z",
+"document_type": "article",
+"news_desk": "None",
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "56ef27747988101b50eee122",
+"word_count": "70",
+"slideshow_credits": null
+},
+{
+"web_url": "http://www.nytimes.com/2015/05/22/sports/baseball/bryce-harper-gives-yankees-a-glimpse-of-what-theyre-missing.html",
+"snippet": "Before his third-inning ejection on Wednesday night, Harper had hit 10 home runs in his past 12 games, including six in one three-game stretch.",
+"lead_paragraph": "Before his third-inning ejection on Wednesday night, Harper had hit 10 home runs in his past 12 games, including six in one three-game stretch.",
+"abstract": "Juliet Macur Sports of The Times column asserts that playing against Washington Nationals and their dynamic outfielder Bryce Harper, who is young, talented, exciting to watch and a juggernaut of offensive prowess, must be a stark reminder for New York Yankees of everything their team is lacking.",
+"print_page": "9",
+"blog": [],
+"source": "The New York Times",
+"multimedia": [
+{
+"width": 190,
+"url": "images/2015/05/22/sports/MACUR/MACUR-thumbWide.jpg",
+"height": 126,
+"subtype": "wide",
+"legacy": {
+"wide": "images/2015/05/22/sports/MACUR/MACUR-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"type": "image"
+},
+{
+"width": 600,
+"url": "images/2015/05/22/sports/MACUR/MACUR-articleLarge.jpg",
+"height": 427,
+"subtype": "xlarge",
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/05/22/sports/MACUR/MACUR-articleLarge.jpg",
+"xlargeheight": "427"
+},
+"type": "image"
+},
+{
+"width": 75,
+"url": "images/2015/05/22/sports/MACUR/MACUR-thumbStandard.jpg",
+"height": 75,
+"subtype": "thumbnail",
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/05/22/sports/MACUR/MACUR-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"type": "image"
+}
+],
+"headline": {
+"main": "Bryce Harper Offers Reminder of the Yankees of Old, Not of the Old Ones of Today",
+"content_kicker": "Sports of The Times",
+"kicker": "Sports of The Times",
+"print_headline": "Reminder of the Yanks of Old, Not of the Old Ones of Today "
+},
+"keywords": [
+{
+"rank": "1",
+"is_major": "Y",
+"name": "subject",
+"value": "Baseball"
+},
+{
+"rank": "2",
+"is_major": "Y",
+"name": "persons",
+"value": "Harper, Bryce (1992- )"
+},
+{
+"rank": "3",
+"is_major": "Y",
+"name": "organizations",
+"value": "Washington Nationals"
+},
+{
+"rank": "4",
+"is_major": "Y",
+"name": "organizations",
+"value": "New York Yankees"
+}
+],
+"pub_date": "2015-05-22T00:00:00Z",
+"document_type": "article",
+"news_desk": "Sports",
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"person": [
+{
+"organization": "",
+"role": "reported",
+"firstname": "Juliet",
+"rank": 1,
+"lastname": "MACUR"
+}
+],
+"original": "By JULIET MACUR"
+},
+"type_of_material": "News",
+"_id": "555e1f5179881021e1fa0210",
+"word_count": "980",
+"slideshow_credits": null
+},
+{
+"web_url": "http://www.nytimes.com/2014/03/27/sports/baseball/nationals-harper-ejected-from-game-against-cardinals.html",
+"snippet": "Bryce Harper of the Washington Nationals was ejected after being called out at first base in an exhibition game against the St. Louis Cardinals in Jupiter, Fla.",
+"lead_paragraph": "Bryce Harper of the Washington Nationals was ejected after being called out at first base in an exhibition game against the St. Louis Cardinals in Jupiter, Fla.",
+"abstract": null,
+"print_page": "",
+"blog": [],
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Nationals’ Harper Ejected From Game Against Cardinals",
+"content_kicker": "Sports Briefing",
+"print_headline": "Nationals&#8217; Harper Ejected"
+},
+"keywords": [
+{
+"rank": "1",
+"is_major": "N",
+"name": "subject",
+"value": "Baseball"
+},
+{
+"rank": "2",
+"is_major": "N",
+"name": "organizations",
+"value": "Washington Nationals"
+},
+{
+"rank": "3",
+"is_major": "N",
+"name": "organizations",
+"value": "St Louis Cardinals"
+},
+{
+"rank": "4",
+"is_major": "N",
+"name": "persons",
+"value": "Harper, Bryce (1992- )"
+}
+],
+"pub_date": "2014-03-27T00:00:00Z",
+"document_type": "article",
+"news_desk": "Sports",
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "Brief",
+"_id": "5333ad7f79881069601eabf3",
+"word_count": "63",
+"slideshow_credits": null
+},
+{
+"web_url": "http://www.nytimes.com/2014/04/01/sports/baseball/concussion-testing-for-nationals-harper-during-game.html",
+"snippet": "Bryce Harper was helped off the field in the second inning after colliding with Mets second baseman Eric Young Jr., but he said he passed his concussion tests and returned to finish the game.",
+"lead_paragraph": "Bryce Harper was helped off the field in the second inning after colliding with Mets second baseman Eric Young Jr., but he said he passed his concussion tests and returned to finish the game.",
+"abstract": "Washington Nationals outfielder Bryce Harper is helped off the field in the second inning after colliding with New York Mets second baseman Eric Young Jr; he passes his concussion tests and returnes to finish the game.",
+"print_page": "17",
+"blog": [],
+"source": "The New York Times",
+"multimedia": [
+{
+"width": 190,
+"url": "images/2014/04/01/sports/CITY-NATIONALS/CITY-NATIONALS-thumbWide.jpg",
+"height": 126,
+"subtype": "wide",
+"legacy": {
+"wide": "images/2014/04/01/sports/CITY-NATIONALS/CITY-NATIONALS-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"type": "image"
+},
+{
+"width": 600,
+"url": "images/2014/04/01/sports/CITY-NATIONALS/CITY-NATIONALS-articleLarge.jpg",
+"height": 711,
+"subtype": "xlarge",
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/04/01/sports/CITY-NATIONALS/CITY-NATIONALS-articleLarge.jpg",
+"xlargeheight": "711"
+},
+"type": "image"
+},
+{
+"width": 75,
+"url": "images/2014/04/01/sports/CITY-NATIONALS/CITY-NATIONALS-thumbStandard.jpg",
+"height": 75,
+"subtype": "thumbnail",
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/04/01/sports/CITY-NATIONALS/CITY-NATIONALS-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"type": "image"
+}
+],
+"headline": {
+"main": "Concussion Testing for Nationals’ Harper During Game",
+"print_headline": "Concussion Testing for Harper During Game"
+},
+"keywords": [
+{
+"rank": "1",
+"is_major": "Y",
+"name": "subject",
+"value": "Baseball"
+},
+{
+"rank": "2",
+"is_major": "Y",
+"name": "organizations",
+"value": "Washington Nationals"
+},
+{
+"rank": "3",
+"is_major": "Y",
+"name": "organizations",
+"value": "New York Mets"
+},
+{
+"rank": "4",
+"is_major": "N",
+"name": "persons",
+"value": "Harper, Bryce (1992- )"
+}
+],
+"pub_date": "2014-04-01T00:00:00Z",
+"document_type": "article",
+"news_desk": "Sports",
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"contributor": "Alan Schwarz contributed reporting.",
+"person": [
+{
+"organization": "",
+"role": "reported",
+"firstname": "Matt",
+"rank": 1,
+"lastname": "KRUPNICK"
+}
+],
+"original": "By MATT KRUPNICK"
+},
+"type_of_material": "News",
+"_id": "533a2f887988105330679696",
+"word_count": "707",
+"slideshow_credits": null
+},
+{
+"web_url": "http://www.nytimes.com/2011/03/13/sports/baseball/13bats.html",
+"snippet": "Bryce Harper, the top overall draft pick last year, was disappointed but determined to make to the big leagues as soon as possible.",
+"lead_paragraph": "Bryce Harper, the top overall draft pick last year, was disappointed but determined to make to the big leagues as soon as possible.",
+"abstract": "Baseball Roundup; Washington Nationals outfielder Bryce Harper, the top pick in MLB draft, is sent to Class A Hagerstown to prepare for season with more playing time.",
+"print_page": "4",
+"blog": [],
+"source": "The New York Times",
+"multimedia": [
+{
+"width": 75,
+"url": "images/2011/03/13/sports/YBATS/YBATS-thumbStandard.jpg",
+"height": 75,
+"subtype": "thumbnail",
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2011/03/13/sports/YBATS/YBATS-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"type": "image"
+}
+],
+"headline": {
+"seo": "Nationals Send Top Prospect Harper to Minors",
+"main": "No. 1 Pick in Baseball Is Sent to the Minors, for Now",
+"content_kicker": "Roundup",
+"print_headline": "No. 1 Pick in Baseball Is Sent to the Minors, for Now"
+},
+"keywords": [
+{
+"rank": "1",
+"is_major": "Y",
+"name": "subject",
+"value": "Baseball"
+},
+{
+"rank": "2",
+"is_major": "N",
+"name": "persons",
+"value": "Harper, Bryce (1992- )"
+},
+{
+"rank": "3",
+"is_major": "Y",
+"name": "organizations",
+"value": "Washington Nationals"
+},
+{
+"rank": "4",
+"is_major": "N",
+"name": "subject",
+"value": "Minor Leagues"
+},
+{
+"rank": "5",
+"is_major": "N",
+"name": "subject",
+"value": "Draft and Recruitment (Sports)"
+}
+],
+"pub_date": "2011-03-13T00:00:00Z",
+"document_type": "article",
+"news_desk": "Sports",
+"section_name": "Sports",
+"subsection_name": "Baseball",
+"byline": {
+"contributor": "",
+"person": [],
+"original": "By THE ASSOCIATED PRESS",
+"organization": "THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "515aa3d6fdc59278db006117",
+"word_count": "763",
+"slideshow_credits": null
+}
+]
+},
+"status": "OK",
+"copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

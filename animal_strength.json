@@ -1,0 +1,52 @@
+[
+  {
+    "animal": "grizzly bear",
+    "strength level": 8,
+    "": 0
+  },
+  {
+    "animal": "wolverine",
+    "strength level": 8,
+    "": 0
+  },
+  {
+    "animal": "mountain lion",
+    "strength level": 7,
+    "": 0
+  },
+  {
+    "animal": "crocodile",
+    "strength level": 6,
+    "": 0
+  },
+  {
+    "animal": "grey wolf",
+    "strength level": 5,
+    "": 0
+  },
+  {
+    "animal": "bison",
+    "strength level": 4,
+    "": 0
+  },
+  {
+    "animal": "black bear",
+    "strength level": 3,
+    "": 0
+  },
+  {
+    "animal": "bald eagle",
+    "strength level": 2,
+    "": 0
+  },
+  {
+    "animal": "wild boar",
+    "strength level": 1,
+    "": 0
+  },
+  {
+    "animal": "norway rat",
+    "strength level": 0,
+    "": 0
+  }
+]
